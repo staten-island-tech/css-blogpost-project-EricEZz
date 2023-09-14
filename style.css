@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+    color: black;
+    font-size: 25px;
+    background-image: url(img/BG1.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+}
+.color{
+    color: #ba5c5c;
+}
+.span{
+    font-weight: bold;
+    color: bisque;
+}
