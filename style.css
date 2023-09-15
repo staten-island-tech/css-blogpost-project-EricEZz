@@ -1,16 +1,28 @@
 body{
+    text-align: center;
     background-color: azure;
     color: black;
     font-size: 25px;
-    background-image: url(img/BG1.jpg);
+    background-image: url(img/jean-philippe-delberghe-75xPHEQBmvA-unsplash.jpg);
     background-position: center;
     background-size: cover;
-    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
 }
+
 .color{
     color: #ba5c5c;
+    background-color: #C6B3E8;
+    margin-bottom: 60px;
+    padding: 30px;
 }
 .span{
+    margin: auto;
     font-weight: bold;
-    color: bisque;
+    color:#16FDB4;
+}
+
+.id{
+    font-size: 20px;
+    margin-top: 40px;
+    padding-top: 20px;
 }
